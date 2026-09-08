@@ -409,5 +409,6 @@ in
       norpol
       hexstella
     ];
+    doc = ./stalwart.md;
   };
 }
